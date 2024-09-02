@@ -1,0 +1,17 @@
+h1{
+    color:red;
+}
+p{
+    color:yellow;
+}
+i{
+    color:blue;
+}
+
+.box{
+    border: 1px solid black;
+}
+
+#font{
+    font-size: 20pt;
+}
